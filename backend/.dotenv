@@ -1,2 +1,3 @@
-EMAIL_ADDRESS = 'oussama.rachdi@polytechnicien.tn';
-GMAIL_APP_PASSWORD = 'rvfosogwyfurfmnp'
+EMAIL_ADDRESS = 'rachdi.omeima@gmail.com';
+APP_PASSWORD = '1*AzertY*1'
+PORT = 4000
